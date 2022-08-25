@@ -1,4 +1,5 @@
-#batanai gwanyanya
+#batanai gwanyanya :::::::::::::::::::::::::::::::::::::::
+
 This api contains images i will be using to fetch and display on my Next.js-lazy-loading-search-sorting web application (also available on my GitHub). The application displays images, searching for a specific image(s) using key words and sorting them either in asc or dsc order. Find information on how to use docker for your applications below. Credits to @Scalable Scripts youtube channel for providing this api and programming tutorials.
 
 
